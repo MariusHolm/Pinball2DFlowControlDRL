@@ -1,0 +1,4 @@
+model_checkpoint_path: "/home/fenics/shared/Masteroppgave-Marius/Pinball2DFlowControlWithDRL/saver_data/model-24958"
+all_model_checkpoint_paths: "/home/fenics/shared/Masteroppgave-Marius/Pinball2DFlowControlWithDRL/saver_data/model-0"
+all_model_checkpoint_paths: "/home/fenics/shared/Masteroppgave-Marius/Pinball2DFlowControlWithDRL/saver_data/best-model"
+all_model_checkpoint_paths: "/home/fenics/shared/Masteroppgave-Marius/Pinball2DFlowControlWithDRL/saver_data/model-24958"
