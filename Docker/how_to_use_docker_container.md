@@ -21,7 +21,7 @@ A complete Docker image can be built by with the provided Dockerfile which creat
 
 2. 
 # Clone the repository or copy the Dockerfile to the desired location.
-	user@computer:~$ git clone git@github.com:MariusHolm/Pinball_public_temporary.git
+	user@computer:~$ git clone git@github.com:MariusHolm/Pinball2DFlowControlDRL.git
 
 3.
 # Go to the folder where the Dockerfile is saved (/Docker/ in the repository) and build the image by doing (This can take some time):
