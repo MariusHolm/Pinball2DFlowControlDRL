@@ -19,6 +19,6 @@ RUN mkdir local \
     && cd tensorforce \
     && git checkout 0.5.0 -b tensorforce_0_5_0 \
     && pip3 install -e .[tf] \
-    && git clone git@github.com:MariusHolm/Pinball2DFlowControlDRL.git
+    && git clone https://github.com/MariusHolm/Pinball2DFlowControlDRL.git
 
 USER root
